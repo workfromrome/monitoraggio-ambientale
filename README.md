@@ -4,7 +4,7 @@ Questo programma gestisce una piccola raccolta di rilevazioni ambientali.
 Permette di leggere i dati, analizzarli per stazione, filtrare le rilevazioni,
 individuare anomalie, simulare variazioni di temperatura e produrre un report.
 
-Script per l'esercitazione per il corso, per visualizzare il testo dell'esercitazione cliccare [qui](./esercitazione_1.docx.).
+Script per l'esercitazione per il corso, per visualizzare il testo dell'esercitazione cliccare [qui](./esercitazione_1.docx).
 
 ## Struttura dei file
 
